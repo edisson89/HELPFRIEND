@@ -1,8 +1,7 @@
-
 import './App.css'
 import image from './assets/BinancePayQR.png'
 
-const App = () =>{
+function App(){
   return(     
     
     <div>
