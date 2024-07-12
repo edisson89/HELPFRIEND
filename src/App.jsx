@@ -65,7 +65,7 @@ Gracias por tu tiempo y consideración.
 
 Con gratitud,
 
- EDD
+ Jim
       </p>
       </header>
       <main>
