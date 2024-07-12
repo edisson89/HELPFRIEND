@@ -39,26 +39,33 @@ function App(){
     
     <div>
       <header>
-      <h1>Ayudame a ayudar la salud de un amigo</h1>
+      <h1>Ayudame a reestablecer la movilidad de los brazos de Jim</h1>
       <p>
-      Petición de Colaboración
+    <h2>Petición de Colaboración</h2>  
 
-Querido <b>Jimmy</b>,
+ 
 
-Espero que este mensaje te encuentre bien y en buen ánimo. Me dirijo a ti con una petición especial y con la esperanza de poder brindarte el apoyo que necesitas en este momento.
+Querido/a  <b>Donante</b>,
 
-Como sabes, después de tu accidente, has enfrentado grandes desafíos debido a la inmovilidad de tus manos. Quiero que sepas que no estás solo en este camino y que muchos de nosotros estamos dispuestos a ayudarte de cualquier manera posible.
+Espero que este mensaje te encuentre bien. Hoy me dirijo a ti con el corazón lleno de esperanza y una petición especial para alguien muy querido.
 
-Para facilitar algunas de las tareas que ahora son difíciles para ti, he pensado en una manera de colaborar más estrechamente contigo. Me gustaría ofrecer mi ayuda para gestionarte algun dispositivo para:
+Jim es una persona increíblemente valiente que recientemente sufrió un accidente que le ha dejado sin movilidad en sus brazos. Esta situación ha cambiado su vida de manera drástica, y aunque su espíritu sigue siendo fuerte, las limitaciones físicas han creado desafíos que son difíciles de superar sin ayuda.
 
-Tareas diarias: Ayudarte con actividades cotidianas que requieran el uso de las manos, como escribir, cocinar, o cualquier otra tarea doméstica.
-Tecnología: Asistirte en el uso de dispositivos electrónicos, como escribir correos electrónicos, manejar redes sociales, o cualquier otra actividad digital.
+Después de consultar con varios especialistas, hemos descubierto que una prótesis podría devolverle una gran parte de la independencia y calidad de vida que ha perdido. Sin embargo, el costo de una prótesis funcional es significativo, y aquí es donde tu ayuda puede marcar una diferencia enorme.
 
-Quiero que sepas que esta propuesta de ayuda es completamente flexible y está abierta a cualquier otra necesidad que puedas tener. Mi objetivo es asegurarte que puedas continuar con tus actividades diarias de la manera más cómoda y eficiente posible.
+Estamos organizando una campaña para recaudar fondos con el objetivo de cubrir el costo de la prótesis y los gastos médicos relacionados. Cualquier contribución, sin importar el tamaño, será inmensamente apreciada y traerá a Jim un paso más cerca de recuperar su autonomía y continuar viviendo una vida plena.
 
-Por favor, no dudes en decirme cómo puedo ser de más ayuda y en qué momentos sería más conveniente para ti que colaboremos. Estoy aquí para ti y me encantaría poder contribuir a hacer tu vida un poco más fácil durante esta etapa.
+Cómo puedes ayudar:
 
-Con mucha estima y solidaridad espero que cada granito de arena aporte una valiosa y prospera ayuda.
+<b>Donación directa:</b> Puedes hacer una donación directa a través de los enlaces web posteriormente mensionados o a traves de #Paypal edisson.12@hotmail.com
+<b>Compartir la causa:</b> Si no puedes contribuir económicamente, por favor considera compartir esta solicitud con tus amigos y familiares. Cuantas más personas sepan de nuestra causa, más posibilidades tenemos de alcanzar nuestra meta.
+Te agradecemos de todo corazón por tomarte el tiempo para leer nuestra petición. Tu generosidad y apoyo pueden cambiar la vida de Jim de maneras inimaginables. Si tienes alguna pregunta o necesitas más información, no dudes en contactarme directamente al correo.
+
+Gracias por tu tiempo y consideración.
+
+Con gratitud,
+
+ EDD
       </p>
       </header>
       <main>
