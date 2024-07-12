@@ -56,8 +56,9 @@ Después de consultar con varios especialistas, hemos descubierto que una próte
 Estamos organizando una campaña para recaudar fondos con el objetivo de cubrir el costo de la prótesis y los gastos médicos relacionados. Cualquier contribución, sin importar el tamaño, será inmensamente apreciada y traerá a Jim un paso más cerca de recuperar su autonomía y continuar viviendo una vida plena.
 
 Cómo puedes ayudar:
-
-<b>Donación directa:</b> Puedes hacer una donación directa a través de los enlaces web posteriormente mensionados o a traves de #Paypal edisson.12@hotmail.com
+<br />
+<b>Donación directa:</b>Puedes hacer una donación directa a través de los enlaces web posteriormente mensionados o a traves de #Paypal edisson.12@hotmail.com
+<br />
 <b>Compartir la causa:</b> Si no puedes contribuir económicamente, por favor considera compartir esta solicitud con tus amigos y familiares. Cuantas más personas sepan de nuestra causa, más posibilidades tenemos de alcanzar nuestra meta.
 Te agradecemos de todo corazón por tomarte el tiempo para leer nuestra petición. Tu generosidad y apoyo pueden cambiar la vida de Jim de maneras inimaginables. Si tienes alguna pregunta o necesitas más información, no dudes en contactarme directamente al correo.
 
